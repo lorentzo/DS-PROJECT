@@ -1,0 +1,9 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Upper left: whole audio file. Upper right: 44100 samples. Lower left: 22050 samples. Lower right: 11025 samples}}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Distribution of all train audio samples by class}}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Upper Left: MFCC. Upper right: delta. Lower left: delta delta. Lower right: audio file in time.}}{6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Upper Left: MFCC. Upper right: delta. Lower left: delta delta. Lower right: audio file in time.}}{7}
+\contentsline {figure}{\numberline {5}{\ignorespaces Number of samples for every audio file.}}{7}
+\contentsline {figure}{\numberline {6}{\ignorespaces Accuracy for different number of nearest neighbours.}}{9}
+\contentsline {figure}{\numberline {7}{\ignorespaces Accuracy for different metrics.}}{10}
+\contentsline {figure}{\numberline {8}{\ignorespaces Accuracy for different number of nearest neighbours.}}{10}
+\contentsline {figure}{\numberline {9}{\ignorespaces Accuracy for different metrics.}}{11}

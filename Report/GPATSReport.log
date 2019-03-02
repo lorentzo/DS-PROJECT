@@ -1,0 +1,483 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.17)  8 JUN 2018 09:45
+entering extended mode
+**./GPATSReport.tex
+(GPATSReport.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+(GPATSReport.aux)
+\openout1 = `GPATSReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count87
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count88
+\nofMParguments=\count89
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count90
+\MPscratchDim=\dimen106
+\MPnumerator=\count91
+\makeMPintoPDFobject=\count92
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) [1
+
+{C:/Users/Lovro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (GPATSRepor
+t.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `GPATSReport.toc'.
+
+
+[1]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+
+ []
+
+[2]
+<./images/sampleBar.png, id=17, 677.53125pt x 235.37938pt>
+File: ./images/sampleBar.png Graphic file (type png)
+<use ./images/sampleBar.png>
+Package pdftex.def Info: ./images/sampleBar.png  used on input line 83.
+(pdftex.def)             Requested size: 426.80559pt x 142.26309pt.
+
+Overfull \hbox (81.80559pt too wide) in paragraph at lines 83--84
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--96
+
+ []
+
+<./images/distrAudioSampl.png, id=19, 749.80125pt x 306.64563pt>
+File: ./images/distrAudioSampl.png Graphic file (type png)
+<use ./images/distrAudioSampl.png>
+Package pdftex.def Info: ./images/distrAudioSampl.png  used on input line 98.
+(pdftex.def)             Requested size: 426.79622pt x 199.16756pt.
+
+Overfull \hbox (81.79622pt too wide) in paragraph at lines 98--99
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+[3 <./images/sampleBar.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+
+ []
+
+[4 <./images/distrAudioSampl.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--151
+
+ []
+
+<./images/mdda.png, id=29, 703.12688pt x 362.35374pt>
+File: ./images/mdda.png Graphic file (type png)
+<use ./images/mdda.png>
+Package pdftex.def Info: ./images/mdda.png  used on input line 153.
+(pdftex.def)             Requested size: 426.78246pt x 199.17354pt.
+
+Overfull \hbox (81.78246pt too wide) in paragraph at lines 153--154
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 173--187
+
+ []
+
+[6 <./images/mdda.png>]
+<./images/mddazeros.png, id=38, 699.11188pt x 365.365pt>
+File: ./images/mddazeros.png Graphic file (type png)
+<use ./images/mddazeros.png>
+Package pdftex.def Info: ./images/mddazeros.png  used on input line 189.
+(pdftex.def)             Requested size: 426.79898pt x 199.16736pt.
+
+Overfull \hbox (81.79898pt too wide) in paragraph at lines 189--190
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<./images/noOfSamples.png, id=39, 590.70688pt x 230.8625pt>
+File: ./images/noOfSamples.png Graphic file (type png)
+<use ./images/noOfSamples.png>
+Package pdftex.def Info: ./images/noOfSamples.png  used on input line 196.
+(pdftex.def)             Requested size: 284.52756pt x 113.81053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--215
+
+ []
+
+[7 <./images/mddazeros.png> <./images/noOfSamples.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--235
+
+ []
+
+<./images/distrAudioSamplMan.png, id=45, 603.75563pt x 348.30125pt>
+File: ./images/distrAudioSamplMan.png Graphic file (type png)
+<use ./images/distrAudioSamplMan.png>
+Package pdftex.def Info: ./images/distrAudioSamplMan.png  used on input line 23
+7.
+(pdftex.def)             Requested size: 426.79013pt x 199.16621pt.
+
+Overfull \hbox (81.79013pt too wide) in paragraph at lines 237--238
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--259
+
+ []
+
+<./images/knnNN1.png, id=49, 621.32124pt x 289.08pt>
+File: ./images/knnNN1.png Graphic file (type png)
+<use ./images/knnNN1.png>
+Package pdftex.def Info: ./images/knnNN1.png  used on input line 261.
+(pdftex.def)             Requested size: 341.43384pt x 142.26357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+[9 <./images/distrAudioSamplMan.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+<./images/knnMet1.png, id=54, 623.83063pt x 290.58563pt>
+File: ./images/knnMet1.png Graphic file (type png)
+<use ./images/knnMet1.png>
+Package pdftex.def Info: ./images/knnMet1.png  used on input line 271.
+(pdftex.def)             Requested size: 341.4421pt x 142.26405pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+[10 <./images/knnNN1.png> <./images/knnMet1.png>]
+<./images/knnNN2.png, id=60, 618.81187pt x 289.58188pt>
+File: ./images/knnNN2.png Graphic file (type png)
+<use ./images/knnNN2.png>
+Package pdftex.def Info: ./images/knnNN2.png  used on input line 284.
+(pdftex.def)             Requested size: 341.44289pt x 142.2631pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+<./images/knnMet2.png, id=61, 620.81938pt x 286.57062pt>
+File: ./images/knnMet2.png Graphic file (type png)
+<use ./images/knnMet2.png>
+Package pdftex.def Info: ./images/knnMet2.png  used on input line 294.
+(pdftex.def)             Requested size: 341.43277pt x 142.26611pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--306
+
+ []
+
+[11 <./images/knnNN2.png> <./images/knnMet2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 308--316
+
+ []
+
+<./images/kaggle.png, id=67, 718.18312pt x 120.95187pt>
+File: ./images/kaggle.png Graphic file (type png)
+<use ./images/kaggle.png>
+Package pdftex.def Info: ./images/kaggle.png  used on input line 318.
+(pdftex.def)             Requested size: 426.80373pt x 85.3615pt.
+
+Overfull \hbox (81.80373pt too wide) in paragraph at lines 318--319
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--344
+
+ []
+
+[12 <./images/kaggle.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 346--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--357
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 371--382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+[]\OT1/cmr/m/n/10 Beginner guide to Au-dio data: $\OML/cmm/m/it/10 https \OT1/c
+mr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+[]\OT1/cmr/m/n/10 XGB us-ing MFCC and opanichev's fea-tures: $\OML/cmm/m/it/10 
+https \OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]\OT1/cmr/m/n/10 SVM un-der-stand-ing math: $\OML/cmm/m/it/10 https \OT1/cmr/m
+/n/10 : \OML/cmm/m/it/10 ==www:svm \OMS/cmsy/m/n/10  
+ []
+
+
+Overfull \hbox (10.53072pt too wide) in paragraph at lines 388--389
+[]\OT1/cmr/m/n/10 Understanding MFCC: $\OML/cmm/m/it/10 practicalcryptography:c
+om=miscellaneous=machine \OMS/cmsy/m/n/10  
+ []
+
+[14] (GPATSReport.aux) ) 
+Here is how much of TeX's memory you used:
+ 1533 strings out of 493305
+ 22910 string characters out of 3138874
+ 79258 words of memory out of 3000000
+ 5080 multiletter control sequences out of 15000+200000
+ 6370 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,5n,25p,280b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb>
+Output written on GPATSReport.pdf (15 pages, 756032 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
